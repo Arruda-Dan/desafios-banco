@@ -1,4 +1,3 @@
-import br.com.bytebank.banco.modelo.SaldoInsuficienteException;
 
 public abstract class Conta {
 	
